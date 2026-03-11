@@ -600,9 +600,6 @@ are only visible in feature combinations, because the feature may be related to 
 
 ---
 
-![plots](plots/score_comparison_subtle.png)
-
----
 ## 10. Key Plots & Interpretation
 
 ### Time-series anomaly flags
