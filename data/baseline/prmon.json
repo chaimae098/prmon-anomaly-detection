@@ -1,0 +1,68 @@
+{
+  "Avg": {
+    "gpufbmem": 0.0,
+    "gpumempct": 0.0,
+    "gpusmpct": 0.0,
+    "ngpus": 0.0,
+    "nprocs": 1.0,
+    "nthreads": 1.0,
+    "pss": 90867.0,
+    "rchar": 82400.0,
+    "read_bytes": 307200.0,
+    "rss": 94212.0,
+    "rx_bytes": 183237.0,
+    "rx_packets": 950.0,
+    "swap": 0.0,
+    "tx_bytes": 183237.0,
+    "tx_packets": 950.0,
+    "vmem": 201680.0,
+    "wchar": 1100.0,
+    "write_bytes": 0.0
+  },
+  "HW": {
+    "cpu": {
+      "CPUs": 8,
+      "CoresPerSocket": 4,
+      "ModelName": "Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz",
+      "Sockets": 1,
+      "ThreadsPerCore": 2
+    },
+    "gpu": {
+      "gpu_0": {
+        "name": "NVIDIA GeForce MX250",
+        "sm_freq": 1911,
+        "total_mem": 2097152
+      },
+      "nGPU": 1
+    },
+    "mem": {
+      "MemTotal": 8052960
+    }
+  },
+  "Max": {
+    "gpufbmem": 0,
+    "gpumempct": 0,
+    "gpusmpct": 0,
+    "ngpus": 0,
+    "nprocs": 1,
+    "nthreads": 1,
+    "pss": 98104,
+    "rchar": 6592,
+    "read_bytes": 24576,
+    "rss": 101480,
+    "rx_bytes": 14659,
+    "rx_packets": 76,
+    "stime": 0,
+    "swap": 0,
+    "tx_bytes": 14659,
+    "tx_packets": 76,
+    "utime": 0,
+    "vmem": 201680,
+    "wchar": 88,
+    "write_bytes": 0,
+    "wtime": 8
+  },
+  "prmon": {
+    "Version": "3.2.0"
+  }
+}

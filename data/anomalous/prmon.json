@@ -1,0 +1,48 @@
+{
+  "Avg": {
+    "gpufbmem": 0.0,
+    "gpumempct": 0.0,
+    "gpusmpct": 0.0,
+    "ngpus": 0.0,
+    "nprocs": 6.0,
+    "nthreads": 16.5,
+    "pss": 1174.0,
+    "rchar": 3157986021.0,
+    "read_bytes": 0.0,
+    "rss": 14612.0,
+    "rx_bytes": 26368.0,
+    "rx_packets": 236.842,
+    "swap": 0.0,
+    "tx_bytes": 26368.0,
+    "tx_packets": 236.842,
+    "vmem": 922992.0,
+    "wchar": 3157951763.0,
+    "write_bytes": 3158145347.0
+  },
+  "Max": {
+    "gpufbmem": 0,
+    "gpumempct": 0,
+    "gpusmpct": 0,
+    "ngpus": 0,
+    "nprocs": 6,
+    "nthreads": 18,
+    "pss": 1219,
+    "rchar": 600017344,
+    "read_bytes": 0,
+    "rss": 15844,
+    "rx_bytes": 5010,
+    "rx_packets": 45,
+    "stime": 38,
+    "swap": 0,
+    "tx_bytes": 5010,
+    "tx_packets": 45,
+    "utime": 9,
+    "vmem": 922992,
+    "wchar": 600010835,
+    "write_bytes": 600047616,
+    "wtime": 19
+  },
+  "prmon": {
+    "Version": "3.2.0"
+  }
+}
