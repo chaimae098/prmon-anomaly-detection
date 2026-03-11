@@ -358,7 +358,7 @@ Results were identical to using the 8 raw prmon features alone.
 ### Why unsupervised?
 
 In production, ATLAS jobs arrive unlabelled. A supervised classifier would require thousands of hand-labelled anomalous runs — impractical at grid scale. All five models below learn the *normal* distribution and flag deviations from it.
-I already tested supervised models , but as expected they didn't do a really good job in predictions.
+I initially tested supervised models (Random Forest, XGBoost), but their performance was brittle and they failed to generalize to unseen anomaly signatures. Therefore, the focus was kept strictly on unsupervised methods.
 ---
 
 ### Model 1 — Z-Score (Statistical Baseline)
