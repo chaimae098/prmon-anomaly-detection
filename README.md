@@ -1,11 +1,4 @@
-### CERN-HSF Google Summer of Code 2026 — Warm-up Exercise
 
-> **Candidate:** Kazoury Chaimae 
-> **Project:** Automated Software Performance Monitoring for the ATLAS experiment  
-> **Mentors:** ATLAS Computing Performance Group  
-> **AI Disclosure:** See [bottom of this document](#ai-disclosure)
-
----
 
 ## Table of Contents
 
